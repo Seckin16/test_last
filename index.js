@@ -1,2 +1,2 @@
 qa 
-local feature branches dayız
+local feature branches dayız - git last
